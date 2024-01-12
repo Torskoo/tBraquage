@@ -34,4 +34,4 @@ Braquage = {
 	}
 ```
 
-**Avertissement** : Assurez-vous de comprendre le fonctionnement de ESX Legacy et du framework RageUI v2 avant de procéder à des modifications avancées.
+**Avertissement** : Ce script est un rework d'une ressource trouvé sur internet. Assurez-vous de comprendre le fonctionnement de ESX Legacy et du framework RageUI v2 avant de procéder à des modifications avancées.
